@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 
 
 一个游戏热爱者,一个游戏开发者.
-
-想做心中的游戏.
-
-unreal学习中.
